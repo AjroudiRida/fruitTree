@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AjroudiRida/fruittree/static/css/main.ae011678.css",
+    "main.js": "/AjroudiRida/fruittree/static/js/main.93931daf.js",
+    "static/js/787.fe6e7e36.chunk.js": "/AjroudiRida/fruittree/static/js/787.fe6e7e36.chunk.js",
+    "static/media/fruit.jpeg": "/AjroudiRida/fruittree/static/media/fruit.573db0e6d8e2e9e1328a.jpeg",
+    "index.html": "/AjroudiRida/fruittree/index.html",
+    "main.ae011678.css.map": "/AjroudiRida/fruittree/static/css/main.ae011678.css.map",
+    "main.93931daf.js.map": "/AjroudiRida/fruittree/static/js/main.93931daf.js.map",
+    "787.fe6e7e36.chunk.js.map": "/AjroudiRida/fruittree/static/js/787.fe6e7e36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae011678.css",
+    "static/js/main.93931daf.js"
+  ]
+}
