@@ -71,7 +71,7 @@ const FruitCategories = () => {
 
           return (
             <Link className="menu-link" to={`/details/${img}`} key={cat.id}>
-              <div className="fruit-container">
+              <div className="fruit-container" data-testid="search-result">
                 <img
                   className="fruit-img"
                   src={`https://ecomia.tech/imgs/${img}.jpeg`}

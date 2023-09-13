@@ -7,7 +7,7 @@ import {
 
 function Header() {
   return (
-    <div className="header">
+    <div className="header" data-testid="header">
       <nav className="nav">
         <IoChevronBackOutline
           className="backOutline"

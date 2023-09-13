@@ -22,7 +22,6 @@ function Search() {
     });
     const { value } = e.target;
     const reslt = newArr.filter((item) => item.family.toLowerCase().includes(value.toLowerCase()));
-
     dispatch(getSearch(reslt));
   };
 
@@ -30,6 +29,7 @@ function Search() {
     <div className="search-container">
       {isSearchVisible && (
         <input
+          data-testid="search-box"
           className="search-input"
           type="text"
           placeholder="search"
@@ -37,6 +37,7 @@ function Search() {
         />
       )}
       <button
+        data-testid="search-btn"
         type="button"
         className="search-icon"
         onClick={() => setSearchVisible(!isSearchVisible)}
