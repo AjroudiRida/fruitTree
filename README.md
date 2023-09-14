@@ -10,6 +10,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features) 
     - [🚀 Live Demo](#live-demo)
+    - [🚀 video presentation](#video)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -51,9 +52,14 @@
 
 - [Live demo](https://65029051474b2c132566a13d--velvety-hamster-d0b4f7.netlify.app/)
 
+
+ ## 🚀 Video Presentation <a name="video"></a>
+
+- [Video](https://65029051474b2c132566a13d--velvety-hamster-d0b4f7.netlify.app/)
+
  ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[I will try to add some more user interactivity using react]**
+- **[I will try to add some more user interactivity using react]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
