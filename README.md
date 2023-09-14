@@ -55,7 +55,7 @@
 
  ## 🚀 Video Presentation <a name="video"></a>
 
-- [Video](https://www.loom.com/share/b8b4dace106a40d18b1642a9e188af32?sid=08d83a11-8e9a-42fe-8495-506219f15e55)
+- [Video](https://www.loom.com/share/525bd8527de54141a78e7f61867731b5?sid=ab2c30a3-ecf7-47bc-96f8-9b41088fe934)
 
  ## 🔭 Future Features <a name="future-features"></a>
 
@@ -123,7 +123,7 @@ npm test
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](http://ridaajroud.me/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/AjroudiRida/fruittree/issues).
 
 Contributions, issues, and feature requests are welcome!
 
@@ -137,7 +137,7 @@ If you like this project give me star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank My Coding Partner.
+I would like to thank  Nelson Sakwa  author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
