@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { IoArrowForwardCircleOutline } from 'react-icons/io5';
 import { useSelector, useDispatch } from 'react-redux';
 import './fruitDetails.css';
@@ -56,15 +56,13 @@ function FruitDetails() {
                   {' '}
                   Cal
                 </p>
-                <Link to="/">
-                  <button className="back-icon" type="button">
-                    <IoArrowForwardCircleOutline
-                      className="icon"
-                      color="#fff"
-                      size="3rem"
-                    />
-                  </button>
-                </Link>
+                <button className="back-icon" type="button">
+                  <IoArrowForwardCircleOutline
+                    className="icon"
+                    color="#fff"
+                    size="3rem"
+                  />
+                </button>
               </div>
             </div>
           );
