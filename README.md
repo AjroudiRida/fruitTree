@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live demo](https://65028b1775adcf0e82732ca1--rad-figolla-04ee80.netlify.app/)
+- [Live demo](https://65029051474b2c132566a13d--velvety-hamster-d0b4f7.netlify.app/)
 
  ## 🔭 Future Features <a name="future-features"></a>
 

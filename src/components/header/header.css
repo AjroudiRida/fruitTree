@@ -24,13 +24,5 @@
 }
 
 .mic-icon {
-  flex: 1;
-  position: relative;
-  left: 3rem;
-}
-
-.gear-icon {
-  flex: 1;
-  position: relative;
-  left: 2rem;
+  flex: 0.5;
 }
