@@ -55,7 +55,7 @@
 
  ## 🚀 Video Presentation <a name="video"></a>
 
-- [Video](- [Video](https://www.loom.com/share/b8b4dace106a40d18b1642a9e188af32?sid=08d83a11-8e9a-42fe-8495-506219f15e55))
+- [Video](https://www.loom.com/share/b8b4dace106a40d18b1642a9e188af32?sid=08d83a11-8e9a-42fe-8495-506219f15e55))
 
  ## 🔭 Future Features <a name="future-features"></a>
 
